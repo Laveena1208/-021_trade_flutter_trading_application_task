@@ -19,7 +19,8 @@ Run tests
 - flutter test
 
 Recording
-- Attach a short walkthrough video later showing: create a watchlist, add/reorder stocks, place a buy order, and restart the app to show persistence. Add the video file or a link to the README when ready.
+- Attached a short walkthrough video later showing all features.
+- https://github.com/user-attachments/assets/2cd43f4a-9bf0-4a2b-a10f-bf7a83ef1a7e
 
 Notes
 - No backend required; local persistence via Hive (plain Map serialization).
