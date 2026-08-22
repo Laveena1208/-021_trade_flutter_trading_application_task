@@ -25,5 +25,3 @@ Notes
 - No backend required; local persistence via Hive (plain Map serialization).
 - Money is stored as paise (integers). Formatting is handled in lib/core/utils/money.dart.
 
-License
-- Add a license file if needed.
